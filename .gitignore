@@ -1,0 +1,5 @@
+# Definimos la ruta de archicos que no queremos
+# que vayan al control de versiones
+
+# no mete este directorio en git
+/herramientas  
